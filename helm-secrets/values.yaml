@@ -1,0 +1,9 @@
+secrets:
+  keyValues:
+  - name: datadog-secrets
+    data: 
+      DATADOG_HOST_URL: https://url.io
+      DATADOG_PASS: password
+
+
+externalSecretsEnabled: false
